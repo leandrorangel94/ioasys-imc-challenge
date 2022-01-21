@@ -1,0 +1,25 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "imc_challenge",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define",
+        "SUPABASEURL=https://ydbeqenvitjypbyevcoj.supabase.co",
+        "--dart-define",
+        "SUPABASEKEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJvbGUiOiJhbm9uIiwiaWF0IjoxNjQyNTA1ODg4LCJleHAiOjE5NTgwODE4ODh9.CxRVBUW1yDhvtM213AHNNEXZsUH-tYonBx3ql8cZGAw"
+      ]
+    },
+    {
+      "name": "ta_caro (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    }
+  ]
+}
