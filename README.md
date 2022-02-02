@@ -1,16 +1,65 @@
-# imc_challenge
+<h1 align="center">Calculadora de IMC - v2</h1>
 
-A new Flutter project.
+<p align="center">
+<image src="https://user-images.githubusercontent.com/39461509/85029720-fa1f2080-b152-11ea-8ebc-c78432bc532e.jpg"/></br>
+<label>Logo</label>
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="#sobre-memo">Sobre</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-rocket">Tecnologias</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#execute-no-seu-pc-computer">Execute no seu PC</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#como-contribuir-">Como Contribuir</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#licença-scroll">Licença</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<image src="https://img.shields.io/badge/Shields-customizados-red"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+Clique [aqui](https://shields.io/) e selecione escudos para o seu projeto.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Apresentação do Projeto :sparkles:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<image src="https://user-images.githubusercontent.com/39461509/85029714-f8edf380-b152-11ea-86a6-ec196309ae34.png" />
+</p>
+
+---
+
+## Sobre :memo:
+
+Breve descrição sobre o projeto.
+
+## Tecnologias :rocket:
+
+#### Back-end
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+
+#### Front-end
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+- <a href="#">List here</a>
+
+## Execute no seu PC :computer:
+
+- Clone este repositorio e dentro da pasta execute o comando para instalar as dependencias, como `npm install` ou `yarn`;
+- Depois disso,execute o comando para rodar o projeto, por exemplo: `npm run dev` or `yarn start`;
+- Então acesse a aplicação com o endereço <strong> `http://localhost:3000`</strong>, lembre-se de trocar a porta caso esteja usando outra.
+
+## Como contribuir 🤔
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+## Licença :scroll:
+
+> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+##### <p align="center"> <strong> < Feito por <a href="#"> @seuperfil  </a> /> </strong>  :wave:
